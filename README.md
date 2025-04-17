@@ -1,6 +1,6 @@
 Food Delivery Profitability Analysis
 Project Description:
-This project aims to provide a comprehensive profitability analysis for a food delivery business based in New Delhi, using transaction data from orders, deliveries, and commissions. The analysis offers strategic insights into how different factors, such as discounts, delivery fees, and commission rates, impact the overall revenue and profit. Through the application of multiple scenarios, we simulate various strategies to optimize profits while maintaining a balance between customer satisfaction and business performance.
+This project aims to provide a comprehensive profitability  analysis for a food delivery business based in New Delhi, using transaction data from orders, deliveries, and commissions. The analysis offers strategic insights into how different factors, such as discounts, delivery fees, and commission rates, impact the overall revenue and profit. Through the application of multiple scenarios, we simulate various strategies to optimize profits while maintaining a balance between customer satisfaction and business performance.
 
 Key components of the project include:
 
